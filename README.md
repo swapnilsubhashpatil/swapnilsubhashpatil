@@ -3,7 +3,7 @@
     Hi, I'm Swapnil Patil
     <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="32"/>
   </span>
-
+</br>
   <span style="font-size:14px; line-height:1;">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&pause=1000&color=2E9EF7&center=false&vCenter=true&width=360&lines=Open+Source+Contributor;Generative+AI+Developer;Full+Stack+Developer;9x+Hackathon+Winner" />
   </span>
@@ -162,21 +162,27 @@
 </table>
 
 ---
-## 📊 GitHub Activity
+## GitHub Activity
 
-<div style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+<table align="center" style="border:none; border-collapse:collapse;">
+  <tr style="border:none;">
+    <td style="border:none; padding:0 8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=swapnilsubhashpatil&show_icons=true&hide_rank=true&theme=tokyonight"
+        width="380"
+      />
+    </td>
+    <td style="border:none; padding:0 8px;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsubhashpatil&layout=compact&theme=tokyonight"
+        width="380"
+      />
+    </td>
+  </tr>
+</table>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=swapnilsubhashpatil&show_icons=true&hide_rank=true&theme=tokyonight"
-    width="420"
-  />
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsubhashpatil&layout=compact&theme=tokyonight"
-    width="420"
-  />
 
-</div>
 
 
 <p align="center">
@@ -196,15 +202,12 @@
   <a href="https://www.linkedin.com/in/swapnil-subhash-patil">
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="44"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://x.com/swapnilpatil_13">
     <img src="https://www.freeiconspng.com/uploads/new-x-twitter-logo-png-photo-1.png" height="44"/>
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/swapnilpatil._.13/">
     <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" height="44"/>
   </a>
-  &nbsp;&nbsp;
   <a href="#">
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" height="44"/>
   </a>
