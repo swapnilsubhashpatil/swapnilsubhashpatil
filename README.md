@@ -151,25 +151,12 @@
 
 ---
 ## GitHub Activity
-
-<table align="center" style="border:none; border-collapse:collapse;">
-  <tr style="border:none;">
-    <td style="border:none; padding:0 8px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=swapnilsubhashpatil&show_icons=true&hide_rank=true&theme=tokyonight"
-        width="380"
-      />
-    </td>
-    <td style="border:none; padding:0 8px;">
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=swapnilsubhashpatil&layout=compact&theme=tokyonight"
-        width="380"
-      />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=swapnilsubhashpatil&theme=radical&hide_border=true)](https://github.com/swapnilsubhashpatil)
 
 
+</div>
 
 
 
